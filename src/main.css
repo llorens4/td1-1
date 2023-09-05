@@ -1,0 +1,16 @@
+.maClass {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+  padding: 2em;
+  background-color: hsl(230, 9%, 56%);
+}
+
+.avatar{
+  width: 30vw;
+  object-fit: cover;
+  aspect-ratio:  1;
+  border-radius: 50%;
+}
